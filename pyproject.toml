@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "Py_ML"
+name = "Py_MchineL"
 version = "0.1.0" # リリースごとにここを更新する
 description = "機械語を読み込む"
 readme = {file = "README.md", content-type = "text/markdown"}
