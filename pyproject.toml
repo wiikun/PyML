@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "Py_MachineL"
-version = "0.1.0" # リリースごとにここを更新する
+version = "0.1.1" # リリースごとにここを更新する
 description = "機械語を読み込む"
 readme = {file = "README.md", content-type = "text/markdown"}
 requires-python = ">=3.8"
