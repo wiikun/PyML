@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: Py_MachineL
+Version: 0.1.4
+Summary: 機械語を読み込む
+Project-URL: Homepage, https://github.com/wiikun/PyML
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# PyML(Python but Machine Language)
+## 概要/How about
+PyMLはPythonから機械語が直書きされたバイナリファイルを読み込んでそれを関数として使うライブラリです
+## 使い方/How to use
+```import py_ml
+func = pyml.readff("file",[None])```

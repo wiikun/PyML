@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/Py_MachineL.egg-info/PKG-INFO
+src/Py_MachineL.egg-info/SOURCES.txt
+src/Py_MachineL.egg-info/dependency_links.txt
+src/Py_MachineL.egg-info/top_level.txt
+src/py_machine_l/__init__.py
+src/py_machine_l/py_ml.py
